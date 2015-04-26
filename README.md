@@ -7,6 +7,8 @@ output: html_document
 
 #Run below function analysis the data captured by smartphone by subjects and different activities performed by each subject.
 
+## Pre-requisite. extract all the files from zip into a single folder and copy run_analysis.R file into the same folder before running the script.
+
 
 ```{r}
 run_analysis()
